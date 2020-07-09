@@ -9,12 +9,11 @@ playing around with a wide range of technologies.
 
 In my spare time I enjoy hobbies including reading, watching films, cooking, listening to podcasts, swimming and playing squash.
 
-You can also find me answering questions on 
-  [https://stackoverflow.com/users/3486675/delena-malan](StackOverflow),
+You can also find me answering questions on [StackOverflow](https://stackoverflow.com/users/3486675/delena-malan),
   tweeting on 
-  [https://twitter.com/delenamalan](Twitter) or LinkedInning (?) on
-  [https://www.linkedin.com/in/delenamalan"](LinkedIn). My full CV is 
-available [https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db2b98c#file-delena-malan-cv-pdf](here).
+  [Twitter](https://twitter.com/delenamalan) or on
+  [LinkedIn(https://www.linkedin.com/in/delenamalan"). My full CV is 
+available [here](https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db2b98c#file-delena-malan-cv-pdf).
 
 <!--
 **delenamalan/delenamalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
