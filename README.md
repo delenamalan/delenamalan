@@ -11,8 +11,8 @@ In my spare time I enjoy hobbies including reading, watching films, cooking, lis
 
 You can also find me answering questions on [StackOverflow](https://stackoverflow.com/users/3486675/delena-malan),
   tweeting on 
-  [Twitter](https://twitter.com/delenamalan) or on
-  [LinkedIn(https://www.linkedin.com/in/delenamalan"). My full CV is 
+  [Twitter](https://twitter.com/delenamalan), blogging on [www.delenamalan.co.za](https://www.delenamalan.co.za/) or on
+  [LinkedIn](https://www.linkedin.com/in/delenamalan"). My full CV is 
 available [here](https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db2b98c#file-delena-malan-cv-pdf).
 
 <!--
