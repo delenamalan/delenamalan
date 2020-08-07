@@ -4,7 +4,7 @@ My name is Delena Malan and I'm a full-stack software engineer from
 Cape Town, South Africa :south_africa: .
 
 I studied **computer science** at the University of Stellenbosch and have been working as a 
-developer around **4 years**. Currently I work mostly with Python (Django and Flask), Laravel (PHP), VueJS and some Ruby on Rails. I enjoy
+developer for around **4 years**. Currently I work mostly with Python (Django and Flask), Laravel (PHP), VueJS and some Ruby on Rails. I enjoy
 playing around with a wide range of technologies.
 
 In my spare time I enjoy hobbies including reading, watching films, cooking, listening to podcasts, swimming and playing squash.
