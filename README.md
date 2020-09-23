@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://delenamalan.goatcounter.com/count?p=/github-profile" alt="Counter">
 
