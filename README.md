@@ -17,11 +17,7 @@ available [here](https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db
 
 I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](https://www.linkedin.com/in/delenamalan)) if you're interested in offering me a job that side. :smile: 
 
-![Counter](https://delenamalan.goatcounter.com/count)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image of Yaktocat](https://delenamalan.goatcounter.com/count?p=/github-profile)
+![Counter](https://delenamalan.goatcounter.com/count?p=/github-profile)
 
 
 
