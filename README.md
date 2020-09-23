@@ -17,6 +17,9 @@ available [here](https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db
 
 I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](https://www.linkedin.com/in/delenamalan)) if you're interested in offering me a job that side. :smile: 
 
+![Counter](https://delenamalan.goatcounter.com/count)
+
+
 <!--
 **delenamalan/delenamalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://delenamalan.goatcounter.com/count)
+
