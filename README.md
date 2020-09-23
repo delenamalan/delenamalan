@@ -19,6 +19,8 @@ I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](h
 
 ![Counter](https://delenamalan.goatcounter.com/count)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 <!--
 **delenamalan/delenamalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
