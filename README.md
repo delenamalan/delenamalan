@@ -19,6 +19,7 @@ I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](h
 
 ![Counter](https://delenamalan.goatcounter.com/count?p=/github-profile.png)
 
+![D](https://www.delenamalan.co.za/logo-small.png)
 
 
 <!--
