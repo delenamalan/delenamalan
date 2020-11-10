@@ -12,15 +12,9 @@ In my spare time I enjoy hobbies including reading, watching films, cooking, lis
 You can also find me answering questions on [StackOverflow](https://stackoverflow.com/users/3486675/delena-malan),
   tweeting on 
   [Twitter](https://twitter.com/delenamalan), blogging on [www.delenamalan.co.za](https://www.delenamalan.co.za/) or on
-  [LinkedIn](https://www.linkedin.com/in/delenamalan). My full CV is 
-available [here](https://gist.github.com/delenamalan/4ae9986977e220fccdf665653db2b98c#file-delena-malan-cv-pdf).
+  [LinkedIn](https://www.linkedin.com/in/delenamalan).
 
 I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](https://www.linkedin.com/in/delenamalan)) if you're interested in offering me a job that side. :smile: 
-
-![Counter](https://delenamalan.goatcounter.com/count?p=/github-profile.png)
-
-![D](https://www.delenamalan.co.za/logo-small.png)
-
 
 <!--
 **delenamalan/delenamalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
