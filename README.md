@@ -14,8 +14,6 @@ You can also find me answering questions on [StackOverflow](https://stackoverflo
   [Twitter](https://twitter.com/delenamalan), blogging on [www.delenamalan.co.za](https://www.delenamalan.co.za/) or on
   [LinkedIn](https://www.linkedin.com/in/delenamalan).
 
-I'm thinking of moving to Europe :eu: so let me know (preferably on [LinkedIn](https://www.linkedin.com/in/delenamalan)) if you're interested in offering me a job that side. :smile: 
-
 <!--
 **delenamalan/delenamalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
