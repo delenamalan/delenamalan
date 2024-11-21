@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Delena Malan and I'm a full-stack software engineer from
+My name is Dean Malan and I'm a full-stack software engineer from
 Cape Town, South Africa :south_africa: .
 
 I studied **computer science** at the University of Stellenbosch and have been working as a 
