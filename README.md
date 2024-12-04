@@ -4,10 +4,14 @@ My name is Dean Malan and I'm a full-stack software engineer from
 Cape Town, South Africa :south_africa: .
 
 I studied **computer science** at the University of Stellenbosch and have been working as a 
-developer for more than 5 years. Currently I work mostly with Python (Django and Flask), Laravel (PHP), VueJS and some Ruby on Rails. I enjoy
-playing around with a wide range of technologies.
+software engineer for almost eight years.
 
-In my spare time I enjoy hobbies including reading, watching films, cooking, listening to podcasts, swimming and playing squash.
+Currently, I work in the Tooling & Security team at [FINN](www.finn.com), focusing on infrastructure and security.
+
+In the past, I've worked with Python (Django and Flask), Laravel (PHP), VueJS, and Ruby on Rails. I enjoy
+experimenting with a wide range of technologies.
+
+In my spare time, I enjoy hobbies, including reading, hiking, cooking, listening to podcasts, swimming and playing football.
 
 You can also find me answering questions on [StackOverflow](https://stackoverflow.com/users/3486675/delena-malan),
   tweeting on 
