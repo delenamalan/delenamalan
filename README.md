@@ -15,7 +15,7 @@ In my spare time, I enjoy hobbies, including reading, hiking, cooking, listening
 
 You can also find me answering questions on [StackOverflow](https://stackoverflow.com/users/3486675/delena-malan),
   tweeting on 
-  [Twitter](https://twitter.com/delenamalan), blogging on [www.delenamalan.co.za](https://www.delenamalan.co.za/) or on
+  [Twitter](https://twitter.com/delenamalan), blogging on [deanmalan.co.za](https://deanmalan.co.za/) or on
   [LinkedIn](https://www.linkedin.com/in/delenamalan).
 
 <!--
